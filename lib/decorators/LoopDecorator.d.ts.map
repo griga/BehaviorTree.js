@@ -1,0 +1,1 @@
+{"version":3,"file":"LoopDecorator.d.ts","sourceRoot":"","sources":["../../src/decorators/LoopDecorator.ts"],"names":[],"mappings":"AACA,OAAO,SAAS,MAAM,cAAc,CAAC;AACrC,OAAO,EAAE,WAAW,EAAU,MAAM,UAAU,CAAC;AAE/C,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,SAAS;IAClD,QAAQ,SAAmB;IAE3B,SAAS,CAAC,EAAE,IAAe,EAAE;;KAAA;IAM7B,QAAQ,CAAC,GAAG,EAAE,WAAW;CAS1B"}
